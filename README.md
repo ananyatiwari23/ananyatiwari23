@@ -37,4 +37,9 @@ A web-based project focused on road safety.
 - **Live Demo:** https://13-204-218-48.sslip.io/
 - **GitHub:** https://github.com/ananyatiwari23/RoadGuard
 
-- 
+
+### Connect With Me
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ananya-tiwari-670672366)
+- **Portfolio:** [Visit my portfolio](https://au-x-terminal.vercel.app/)
+- **GitHub:** [Explore my repositories](https://github.com/ananyatiwari23)
