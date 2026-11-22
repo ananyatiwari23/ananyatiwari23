@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Ananya Tiwari 👋
 
-<!--
-**ananyatiwari23/ananyatiwari23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student  
+🏫 Galgotias University | 2nd Year  
+💻 Exploring Programming & Software Development
 
-Here are some ideas to get you started:
+### About Me
+- Interested in building web applications and practical projects.
+- Familiar with Frontend Development.
+- Currently learning Full-Stack Web Development.
+- Practicing Data Structures and Algorithms.
+- Always exploring new technologies and improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Programming Languages:** C, C++, Java, Python
+- **Frontend:** HTML, CSS
+- **Database:** SQL
+- **Core Concepts:** OOPs, Data Structures and Algorithms (Learning)
+- **Currently Exploring:** Full-Stack Web Development
+
+### Featured Projects
+
+#### 1. AuX Terminal
+A web-based project showcasing my work and development interests.
+
+- **Live Demo:** https://au-x-terminal.vercel.app/
+
+#### 2. PayGuard
+A project focused on building a practical web application.
+
+- **Live Demo:** https://payguard-f97h.onrender.com/
+- **GitHub:** https://github.com/ananyatiwari23/Payguard
+
+#### 3. RoadGuard
+A web-based project focused on road safety.
+
+- **Live Demo:** https://13-204-218-48.sslip.io/
+- **GitHub:** https://github.com/ananyatiwari23/RoadGuard
+
+- 
